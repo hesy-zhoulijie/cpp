@@ -1,7 +1,7 @@
 # 字典树
 
 ## 资源目录
-[文件目录](https://hsefzcn-my.sharepoint.com/:f:/g/personal/hesy_zhoulijie_hsefz_cn/EprVt362e_JNntX2s-A0CwMB4swSfM6RAUVKYvz29IbCJA?e=BNRMwN)
+[文件目录](https://gitee.com/zljzljsweepy/Github-files-sync/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%AD%97%E5%85%B8%E6%A0%91)
 ![](https://pic.downk.cc/item/5f18f86d14195aa594e7c17d.jpg)
 
 Trie 树，即字典树，又称单词查找树或键树，是一种树形结构，是一种哈希树的变种。典型应用是用于统计和排序大量的字符串（但不仅限于字符串），所以经常被搜索引擎系统用于文本词频统计。它的优点是：最大限度地减少无谓的字符串比较。
