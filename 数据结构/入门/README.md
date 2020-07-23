@@ -1,5 +1,6 @@
 # 数据结构
-
+//[更好的渲染](https://zybuluo.com/zljzljsweepy/note/1726800)
+[切入正文](#vector-%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84-%E7%9A%84%E4%BD%BF%E7%94%A8)
 整理不易，全文比较长，而且有很多的代码段，建议收藏。
 
 [toc]
